@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# <Welcome Text>\n\n<A paragraph about who you are and the services you offer.>\n\n<A call to action to  explore your different services.>",
+  "welcomeText": "# < Welcome Text >\n\n< A paragraph about who you are and the services you offer. >\n\n< A call to action to  explore your different services. >",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
